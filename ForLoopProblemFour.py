@@ -7,11 +7,14 @@
 #
 
 for numbers in range(1, 51):
-    if numbers % 3 == 0:
-        print("Divisible by 3")
+    if numbers % 3 == 0 and numbers % 5 == 0:
+        print("Divisible by both")
 
     elif numbers % 5 == 0:
         print("Divisible by 5")
+
+    elif numbers % 3 == 0:
+        print("Divisible by 3")
 
     else:
         print(numbers)
