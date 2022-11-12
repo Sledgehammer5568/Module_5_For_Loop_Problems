@@ -24,5 +24,13 @@ Write a program that does the following:
 HINTS: The steps in your if/elif/else statement will be different from the order of the steps in
 this bulleted list. You will need the modulo (%) operator.
 
-Practice file:
-My notes on for loops
+# My Files
+Cick this to go to [**problem 1**](https://github.com/Sledgehammer5568/Module_5_For_Loop_Problems/blob/bf4c2568845e1db125ef43c5d7a90cf6bd1dfdce/ForLoopProblemOne.py).
+
+Cick this to go to [**problem 2**](https://github.com/Sledgehammer5568/Module_5_For_Loop_Problems/blob/bf4c2568845e1db125ef43c5d7a90cf6bd1dfdce/ForLoopProblemTwo.py).
+
+Cick this to go to [**problem 3**](https://github.com/Sledgehammer5568/Module_5_For_Loop_Problems/blob/bf4c2568845e1db125ef43c5d7a90cf6bd1dfdce/ForLoopProblemThree.py).
+
+Cick this to go to [**problem 4**](https://github.com/Sledgehammer5568/Module_5_For_Loop_Problems/blob/bf4c2568845e1db125ef43c5d7a90cf6bd1dfdce/ForLoopProblemFour.py).
+
+Click this to go to my [**Practice File**](https://github.com/Sledgehammer5568/Module_5_For_Loop_Problems/blob/bf4c2568845e1db125ef43c5d7a90cf6bd1dfdce/ForLoopPractice.py).
